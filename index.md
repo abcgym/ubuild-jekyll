@@ -23,8 +23,8 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
-  background_image: "/uploads/2018/12/04/ABC Fitness Logo.png"
+    alt_text: ''
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
