@@ -66,6 +66,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <img src="/uploads/2018/12/04/ABC Fitness Logo.png">
+    headline: logo
+  col_2:
+    headline: logo
+    content: <img src="/uploads/2018/12/04/ABC Fitness Logo.png">
+  col_3:
+    headline: logo
+    content: <img src="/uploads/2018/12/04/ABC Fitness Logo.png">
 
 ---
 foo bar
