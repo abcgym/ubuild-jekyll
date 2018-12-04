@@ -3,6 +3,8 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
+- template: simple-header
+  block: header-3
 - template: navigation-header
   block: header-1
   navigation:
