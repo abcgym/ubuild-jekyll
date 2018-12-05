@@ -11,7 +11,7 @@ page_sections:
   logo: "/uploads/2018/12/04/ABC Fitness Logo.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: ABC Gym
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
