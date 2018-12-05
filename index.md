@@ -11,9 +11,8 @@ page_sections:
   logo: "/uploads/2018/12/04/ABC Fitness Logo.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: ABC Gym
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>ABC Gym</strong>"
+  content: A welcoming gym in Leigh on Sea<br>where you actually get results.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
